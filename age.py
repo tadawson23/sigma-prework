@@ -1,4 +1,4 @@
-# Programme that, given the date, calculates the number of years between any of the dates
+# Programme that, given the date, calculates the number of days between any of the dates
 from datetime import datetime
 
 today_date = "2023/09/19"
